@@ -1,7 +1,7 @@
 Class 15 Kaggle - Demand Forecasting
 ==============================
 
-Demand Forecasting challenge on Kaggle
+Store Item Demand Forecasting Challenge - Predicting 3 months of sales for 50 different items at 10 different stores.
 
 Project Organization
 ------------
